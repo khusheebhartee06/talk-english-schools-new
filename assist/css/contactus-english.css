@@ -1,0 +1,24 @@
+#mylogopage{
+    background-image: url(../img/computer.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+#handlaptop2 h1,h3{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#handlaptop1 h3{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}

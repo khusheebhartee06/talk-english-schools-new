@@ -1,0 +1,15 @@
+#mylogopage{
+    background-image: url(../img/abouttalk.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 450px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+

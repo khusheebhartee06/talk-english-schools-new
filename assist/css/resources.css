@@ -1,0 +1,36 @@
+#mylogopage{
+    background-image: url(../img/resourse\ home.jfif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    height: 300px;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+#handlaptop1{
+    background-image: url(../img/hand\ laptop.webp);
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    padding: 13%;
+}
+#handlaptop1 h1{
+    font-size: 55px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#handlaptop2 h1{
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+#mylogopage{
+    position: sticky;
+    margin-bottom: 5%;
+}
